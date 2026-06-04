@@ -12,7 +12,7 @@ from app.service import VectorService
 
 from app.rag_service import RagService
 rag = RagService()
-st.title("RAG Demo (MariaDB VectorStore 기반)")
+st.title("Git!!!!     RAG Demo (MariaDB VectorStore 기반)")
 service = VectorService()
 
 st.title("Python / LangChain / MariaDB VectorStore")
